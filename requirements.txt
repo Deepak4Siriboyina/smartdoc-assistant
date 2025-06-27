@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-community
+faiss-cpu
+pymupdf
+sentence-transformers
+streamlit
+python-dotenv
+tiktoken
+google-generativeai
+langchain-google-genai
+pandas

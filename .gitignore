@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+temp/
+virtenvt/
+data/
+backend/vector_store/
+*.pdf
