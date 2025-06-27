@@ -1,1 +1,0 @@
-# smartdoc-assistant
